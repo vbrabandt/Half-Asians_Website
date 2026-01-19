@@ -14,17 +14,20 @@ embed_player:
 Write more details about your release here:
 
 ## Tracklist
+
 1. Song 1
 2. Song 2
 3. Song 3
 
 ## Credits
-- Vocals: 
-- Guitar: 
-- Drums: 
+
+- Vocals:
+- Guitar:
+- Drums:
 - etc.
 
 ## Links
+
 - [Listen on Bandcamp](https://bandcamp.com/...)
 - [Listen on Soundcloud](https://soundcloud.com/...)
 - [Watch on YouTube](https://youtube.com/...)
