@@ -1,4 +1,4 @@
-# Half-Asians Website
+# Half-Asians Website (WIP)
 
 This is the official website for Half-Asians, built using Jekyll and based on the [minimal-music-project](https://github.com/ItsPatrq/minimal-music-project) theme.
 
